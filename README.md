@@ -18,7 +18,7 @@ My workflow for disabling the HDMI check:
    // builds APPNAME folder into NEW_APPNAME.apk
    ***I've not been able to successfully recompile the apk and sign it proberly, so if anyone has a solution for that, I'd love to know what it is.
 
-To signed the app properly I used the following steps:
+To sign the app properly I used the following steps:
 
 5. Use APK Studio Editor to unpack the modified recompile apk.( NEW_APPNAME.APK)
 
