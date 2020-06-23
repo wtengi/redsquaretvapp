@@ -1,0 +1,5 @@
+APKTOOL
+https://ibotpeaches.github.io/Apktool/
+
+APK Editor Studio
+https://qwertycube.com/apk-editor-studio/
