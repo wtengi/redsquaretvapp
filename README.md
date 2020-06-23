@@ -4,7 +4,7 @@ Disabling HDMI Check for Shaw Blue Curve TV
 My workflow for disabling the HDMI check:
 
 1. Downlaod APKTOOL 
-2. Decompile the app using apktool using the following command
+ Decompile the app using apktool using the following command
    $ apktool d -r APPNAME.apk
    // decodes APPNAME.apk to APPNAME folder
 
